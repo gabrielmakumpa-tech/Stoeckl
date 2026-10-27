@@ -1,0 +1,20 @@
+[
+  {"brand":"CUBE","model":"Nuroad SLX","type":"Gravel","image":"offer-06.jpg","price":1999,"details":"Gravelbike aus dem veröffentlichten Angebot."},
+  {"brand":"CUBE","model":"Stereo Hybrid ONE44 HPC SLX 800","type":"E-Mountainbike","image":"offer-07.jpg","price":null,"details":"E-Mountainbike mit Vollfederung. Preis im Originalbild nicht vollständig lesbar."},
+  {"brand":"CUBE","model":"Reaction Hybrid ONE 720 FE","type":"E-Mountainbike","image":"offer-08.jpg","price":2999,"details":"Im Angebot mit Schutzblechen, Licht und Gepäckträger abgebildet."},
+  {"brand":"CUBE","model":"Touring Hybrid Pro 800","type":"E-Bike & Trekking","image":"offer-09.jpg","price":2999,"details":"E-Trekkingrad mit tiefem Einstieg."},
+  {"brand":"CUBE","model":"Aim ONE FE","type":"Mountainbike","image":"offer-10.jpg","price":null,"details":"Mit Schutzblechen, Licht und Gepäckträger abgebildet. Preis im Originalbild nicht vollständig lesbar."},
+  {"brand":"woom","model":"WOW","type":"Laufrad","image":"offer-14.png","price":179,"details":"Auf der Website als Neuheit für 2027 angekündigt. Drei Farben; selbstbalancierendes Laufrad."},
+  {"brand":"CUBE","model":"Stereo Hybrid ONE44 HPC Race","type":"E-Mountainbike","image":"offer-16.png","price":null,"details":"Auf der Website in einem Testbericht von 2025 vorgestellt; kein aktueller Angebotspreis veröffentlicht."},
+  {"brand":"CUBE","model":"Kathmandu Hybrid SLX 800","type":"E-Bike & Trekking","image":"offer-17.png","price":null,"details":"Auf der Website in einem Testbericht von 2025 vorgestellt; kein aktueller Angebotspreis veröffentlicht."},
+  {"brand":"Wilier","model":"Urta Hybrid Shimano XT Fazua Ride 60","type":"E-Mountainbike","image":"offer-18.jpg","price":5500,"details":"Reduziertes Einzelstück, Größe M laut Angebotsbild."},
+  {"brand":"SCOTT","model":"Spark 940","type":"Mountainbike","image":"offer-19.jpg","price":2999,"details":"29 Zoll, 12K Fully, Raw Carbon; Größe XL laut Angebotsbild."},
+  {"brand":"Wilier","model":"101X Shimano XT 1x12","type":"Mountainbike","image":"offer-20.jpg","price":null,"details":"Reduziertes Einzelstück. Preis und Größenangabe im Originalbild nicht vollständig lesbar."},
+  {"brand":"Wilier","model":"Garda Disc Shimano 105 Di2","type":"Rennrad","image":"offer-21.jpg","price":3800,"details":"Reduziertes Einzelstück mit Shimano 105 Di2 laut Angebotsbild."},
+  {"brand":"Wilier","model":"Granturismo SL Shimano 105 Di2","type":"Rennrad","image":"offer-22.jpg","price":null,"details":"Reduziertes Einzelstück. Preis im Originalbild nicht vollständig lesbar."},
+  {"brand":"Wilier","model":"Jaroon GRX","type":"Gravel","image":"offer-23.jpg","price":1799,"details":"Sand Green; Größe M laut Angebotsbild."},
+  {"brand":"Wilier","model":"Jena GRX","type":"Gravel","image":"offer-24.jpg","price":2800,"details":"Reduziertes Einzelstück, Größe XS laut Angebotsbild."},
+  {"brand":"Pinarello","model":"Grevil F5 Shimano GRX 610","type":"Gravel","image":"offer-25.jpg","price":3499,"details":"Reduziertes Einzelstück, Größe 47 laut Angebotsbild."},
+  {"brand":"SCOTT","model":"Contessa Spark 930","type":"Mountainbike","image":"offer-26.jpg","price":2299,"details":"29 Zoll MTB Fully, Pearl Snow White; Größe S laut Angebotsbild."},
+  {"brand":"Velo de Ville","model":"FEB990 FS SMART","type":"E-Bike & Trekking","image":"offer-27.jpg","price":4399,"details":"27,5 Zoll; Rahmengröße 48 laut Angebotsbild."}
+]
